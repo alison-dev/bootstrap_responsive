@@ -7,12 +7,12 @@ https://github.com/alison-dev/bootstrap_responsive/blob/main/LICENSE
 O projeto Bootstrap Responsive foi feito com o objetivo de partir do método de desenvolvimento mobile first usando apenas o poderoso framework bootstrap.
 
 ## Layout mobile
-![Mobile_1](https://github.com/alison-dev/wdpshoes/blob/master/mobile1/2021-09-27%20(8).png) ![Mobile_2](https://github.com/alison-dev/wdpshoes/blob/master/mobile2/2021-09-27%20(10).png)
+![Mobile_1](https://github.com/alison-dev/bootstrap_responsive/blob/master/_responsivo/photomobile1/photomobile1.png) ![Mobile_2](https://github.com/alison-dev/bootstrap_responsive/blob/master/_responsivo/photomobile2/photomobile2.png)
 
 ## Layout web
-![Web_1](https://github.com/alison-dev/wdpshoes/blob/master/web1/2021-09-27.png)
+![Web_1](https://github.com/alison-dev/bootstrap_responsive/blob/master/_responsivo/photoweb1/photoweb1.png)
 
-![Web_2](https://github.com/alison-dev/wdpshoes/blob/master/web2/2021-09-27%20(2).png)
+![Web_2](https://github.com/alison-dev/bootstrap_responsive/blob/master/_responsivo/photoweb2/photoweb2.png)
 
 
 # Tecnologias utilizadas
